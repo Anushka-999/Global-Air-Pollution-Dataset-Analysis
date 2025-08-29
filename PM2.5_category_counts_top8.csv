@@ -1,0 +1,9 @@
+Country,Good,Hazardous,Moderate,Unhealthy,Unhealthy for Sensitive Groups,Very Unhealthy
+Aruba,0.0,0.0,0.0,1.0,0.0,0.0
+Bahrain,0.0,0.0,0.0,1.0,0.0,0.0
+Kuwait,0.0,0.0,0.0,3.0,0.0,0.0
+Mauritania,0.0,0.0,0.0,3.0,0.0,1.0
+Pakistan,0.0,13.0,17.0,223.0,33.0,21.0
+Republic of Korea,0.0,1.0,0.0,0.0,0.0,0.0
+Senegal,1.0,0.0,0.0,23.0,8.0,1.0
+United Arab Emirates,0.0,0.0,0.0,3.0,0.0,0.0
